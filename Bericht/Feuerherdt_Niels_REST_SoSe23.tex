@@ -1,0 +1,60 @@
+% !TEX root = Feuerherdt_Niels_REST_SoSe23.tex
+%Einbindung Pakete
+\input{Setup-Files/head}
+
+%Initialisierung des Dokuments
+\begin{document}
+
+%Einbindung unterschiedlicher Befehlsänderungen
+\input{Setup-Files/style}
+
+\parindent 0cm
+
+%Zeilenabstand	
+\onehalfspacing			 									
+\addtolength{\footskip}{-8mm}
+
+%Titelseite
+\input{Sub-Files/title}
+\newpage
+
+%Abstract (dieser ist für Laborprotokolle in der Regel nicht notwendig)
+%\input{abstract}
+% \newpage
+
+\pagenumbering{roman}
+
+%Inhaltsverzeichnis
+\setcounter{tocdepth}{3}
+\tableofcontents
+\newpage
+
+%Abbildungsverzeichnis, Tabellenverzeichnis und Abkürzungsverzeichnis
+\listoffigures
+\listoftables
+%\input{Setup-Files/AbkVerzeichnis}
+\newpage
+
+\pagenumbering{arabic}
+
+%Inhaltlicher Teil
+\input{Sub-Files/Einleitung.tex}
+\input{Sub-Files/a) Angebot und Bedarf.tex}
+\input{Sub-Files/b) Angbeot und Bedarf.tex}
+\input{Sub-Files/c) Komponentenauswahl.tex}
+\input{Sub-Files/d) Komponentenauswahl.tex}
+\input{Sub-Files/e) Komponentenauswahl.tex}
+\input{Sub-Files/f) Hydraulik.tex}
+\input{Sub-Files/g) Hydraulik.tex}
+\input{Sub-Files/h) Hydraulik.tex}
+\input{Sub-Files/i) Hydraulik.tex}
+\input{Sub-Files/j) Schwankungsbreite.tex}
+\input{Sub-Files/k) Schwankungsbreite.tex}
+\newpage
+%Quellenverzeichnis
+\sloppy
+\input{Sub-Files/Quellen}
+\fussy
+
+
+\end{document}
