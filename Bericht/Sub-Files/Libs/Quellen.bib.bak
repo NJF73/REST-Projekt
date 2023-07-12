@@ -1,1 +1,20 @@
+@Misc{PVGIS,
+  author       = {European Commission, Joint Research Centre Energy Efficiency and Renewables Unit},
+  howpublished = {\url={https://re.jrc.ec.europa.eu/pvg_tools/en/}},
+  title        = {JRC Photovoltaic Geographical Information System},
+}
+
+@Book{QUA19,
+  author    = {Volker Quaschning},
+  publisher = {HANSER Verlag},
+  title     = {Regenerative Energiesysteme},
+  year      = {2019},
+}
+
+@Misc{Sick22,
+  author       = {Friedrich Sick},
+  howpublished = {\url{https://moodle.htw-berlin.de/pluginfile.php/1709252/mod_resource/content/2/REST_Thermische%20Systeme_Sick_SoSe23.pdf}},
+  title        = {Modul REST: Biomasse und Thermische Systeme},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -1,10 +1,36 @@
 \subsection{b}
-Bestimmen Sie den (mittleren) Gesamtwärmebedarf Q des Gebäudes (Warmwasser, Heizung, Zirkulation).
-Das Gebäude weist einen unter genormten Randbedingungen berechneten spezifischen jährlichen Heiz-
-wärmebedarf von 50 kWh/(m2a) auf. Im Gebäude werden insgesamt 40 m Zirkulationsleitungen verlegt.
-Die Zirkulation ist 24 Stunden am Tag eingeschaltet.
-Welche Faktoren beeinflussen den tatsächlichen Gesamtwärmeverbrauch? Versuchen Sie auch hier die
-Schwankung des Verbrauchs um den mittleren Gesamtwärmebedarf
- %𝑄 ± ∆𝑄 
- qualifiziert zu schätzen
-(Begründung!)
+Zur korrekten Dimensionierung der Anlage ist die Betrachtung des Gesamtwärmebedarfs von zentraler Rolle.
+Auf den Gesamtwärmebedarf haben vor allem die Dämm- und Speichereigenschaften des Gebäudes, sowie das Nutzungsprofil der Bewohner.\\
+Für das betrachtete Gebäude werden $160 m^2$ Wohnfläche bei einem spezifischen jährlichen Heizwärmebedarf von $50 \frac{kWh}{m^2 \cdot a}$ angegeben.
+Die Multiplikation dieser beiden Werte ergibt für den mittleren Heizwärmebedarf $Q_H = 8000 \frac{kWh}{a}$.\\
+Um eine begründete Abschätzung der Schwankungsbreite für diesen Wert zu erhalten, wurden Daten über den Gesamtverbrauch im Bereich "'Space Heating"' in Deutschland von 2012 bis 2021 verwendet.\\
+Mit Hilfe der Berechnung der relativen mittleren Abweichung der Werte konnte eine Toleranzgrenze von $\Delta Q_H = \pm 287,78 \frac{kWh}{a}$ ermittelt werden.\\
+Anschließend wurde der Warmwasserwärmebedarf $Q_{WW}$ für mittleren, niedrigen und hohen Verbrauch \cite[S.119]{Sick22} berechnet.
+Mittels \autoref{eq:Warmwasser} ergab sich für den betrachteten 4-Personen-Haushalt ein mittlerer Warmwasserwämrmebedarf inklusive Abweichung von $Q_{WW,mit} = 2711,025 \frac{kWh}{a} \pm 1355,513 \frac{kWh}{a}$.
+
+\begin{equation}
+    Q_{WW}= c_p \cdot m \cdot Bewohnerzahl \cdot \rho \cdot \Delta T
+    \label{eq:Warmwasser}
+\end{equation}
+\vspace{\baselineskip}
+\begin{center}
+    spez. Wärmekapazität $c_p = 3,68 \frac{kJ}{kg \cdot K}$\\
+    Dichte $\rho = 1038 \frac{kg}{m^3}$\\
+    Temperaturdifferenz $\Delta T = 35 K$ 
+\end{center}
+
+Des Weiteren ist der Wärmebedarf der Zirkulation zu berechnen, da auch dieser sich auf den Gesamtbedarf auswirkt.
+Hierfür wird die folgende Formel verwendet \cite[S.73]{Sick22}:
+
+\begin{equation}
+    Q_{ZV} = 0,2 \frac{kWh}{d \cdot m} \cdot \frac{t_Z}{24} \cdot L_Z
+    \label{eq:Zirkulation}
+\end{equation}
+\begin{center}
+    tägliche Betriebszeit $t_Z = 24 h$\\
+    Leitungslänge $L_Z = 40 m$
+\end{center}
+\vspace{\baselineskip}
+Aus \autoref{eq:Zirkulation} geht ein Zirkulationsbedarf von $Q_{ZV} = 2920 \frac{kWh}{a}$ hervor.\\
+Die Summe der Bedarfe ergibt den Gesamtwärmebedarf inklusive aufsummierter Toleranz.
+Dieser beläuft sich auf $Q_{Ges}=13631,025 \pm 1643,292 \frac{kWh}{a}$.\\

@@ -1,9 +1,9 @@
 \section{Komponentenauswahl}
 \label{sec:Komponentenauswahl}
 \subsection{c}
-Die Bewohner entscheiden sich für den Kollektortyp Flachkollektor. Nehmen Sie die typischen Werte für
-den solaren Deckungsanteil und den Systemnutzungsgrad einer solarthermischen Kombianlage an und
-berechnen Sie daraus die benötigte Kollektorfläche.
-(Hinweis: Dies ist eine erste Abschätzung, die im Rahmen dieses Projektes genügen muss. Im nächsten
-Schritt einer tatsächlichen Planung müsste diese durch eine dynamische Simulation überprüft und ggf.
-geändert werden.)
+Es werden ein solarer Deckungsgrad $f_{sol}$ von 30\% und ein Systemnutzungsgrad von 20\% für die Anlage angenommen\cite[S.122]{Sick22}.\\
+Daraus ergibt sich gemäß \autoref{eq:Kollektorfläche} eine benötigte Kollektorfläche von $A_{Koll}=17,195 m^2$.\\
+\begin{equation}
+    A_{Koll}= \frac{f_{sol} \cdot Q_{Ges}}{\eta_{sys} \cdot E_{gen}}
+    \label{eq:Kollektorfläche}
+\end{equation}
