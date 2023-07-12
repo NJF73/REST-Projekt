@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.6)  12 JUL 2023 06:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.6)  12 JUL 2023 06:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -948,12 +948,12 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 12
  (C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 1117) in paragraph at lines 15--19
+Underfull \hbox (badness 1117) in paragraph at lines 22--26
 []\T1/lmr/m/n/10.95 Friedrich Sick.  Mo-dul rest: Bio-mas-se und ther-mi-sche sys-te-me.  []$\T1/lmtt/m/n/10.95 https : / / moodle .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
 \T1/lmtt/m/n/10.95 htw-[]berlin . de / pluginfile . php / 1709252 / mod _ resource / content / 2 / REST _ Thermische %
  []
 
@@ -976,17 +976,17 @@ Package rerunfilecheck Info: File `Feuerherdt_Niels_REST_SoSe23.out' has not cha
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19751 strings out of 476315
- 378227 string characters out of 5786253
+ 19753 strings out of 476315
+ 378250 string characters out of 5786253
  1892068 words of memory out of 5000000
- 39758 multiletter control sequences out of 15000+600000
+ 39759 multiletter control sequences out of 15000+600000
  571152 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,23n,121p,11006b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Feuerherdt_Niels_REST_SoSe23.pdf (8 pages, 523887 bytes).
+Output written on Feuerherdt_Niels_REST_SoSe23.pdf (8 pages, 525859 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
  144 words of extra memory for PDF output out of 10000 (max. 10000000)
 

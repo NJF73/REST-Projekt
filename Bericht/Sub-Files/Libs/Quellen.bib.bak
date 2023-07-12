@@ -17,4 +17,12 @@
   title        = {Modul REST: Biomasse und Thermische Systeme},
 }
 
+@Misc{EuroStat,
+  author       = {eurostat},
+  howpublished = {\url{https://ec.europa.eu/eurostat/databrowser//product/view/NRG_D_HHQ}},
+  month        = may,
+  title        = {Disaggregated final energy consumption in households - quantities},
+  year         = {2023},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

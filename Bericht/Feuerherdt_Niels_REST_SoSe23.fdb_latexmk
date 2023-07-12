@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex Feuerherdt_Niels_REST_SoSe23"] 1689136960 "Feuerherdt_Niels_REST_SoSe23.aux" "Feuerherdt_Niels_REST_SoSe23.bbl" "Feuerherdt_Niels_REST_SoSe23" 1689136967 0
-  "./Sub-Files/Libs/Quellen.bib" 1689134439 1007 3c214f6560f758f5bbbfa12b64d4a31e ""
+["bibtex Feuerherdt_Niels_REST_SoSe23"] 1689137328 "Feuerherdt_Niels_REST_SoSe23.aux" "Feuerherdt_Niels_REST_SoSe23.bbl" "Feuerherdt_Niels_REST_SoSe23" 1689137336 0
+  "./Sub-Files/Libs/Quellen.bib" 1689137212 1007 3c214f6560f758f5bbbfa12b64d4a31e ""
   "C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/unsrt.bst" 1291868336 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "Feuerherdt_Niels_REST_SoSe23.aux" 1689136965 6643 5a6ff7206c53f1be1da310bf4e2df9c0 "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.aux" 1689137334 6685 f66791619b262aa0381a4f99ee58291e "pdflatex"
   (generated)
   "Feuerherdt_Niels_REST_SoSe23.bbl"
   "Feuerherdt_Niels_REST_SoSe23.blg"
   (rewritten before read)
-["pdflatex"] 1689136961 "f:/Niels/UNI/6.Semester/REST-Projekt/REST-Projekt/Bericht/Feuerherdt_Niels_REST_SoSe23.tex" "Feuerherdt_Niels_REST_SoSe23.pdf" "Feuerherdt_Niels_REST_SoSe23" 1689136967 0
+["pdflatex"] 1689137329 "f:/Niels/UNI/6.Semester/REST-Projekt/REST-Projekt/Bericht/Feuerherdt_Niels_REST_SoSe23.tex" "Feuerherdt_Niels_REST_SoSe23.pdf" "Feuerherdt_Niels_REST_SoSe23" 1689137336 0
   "Abbildungen//HTWLogo.eps" 1688475293 328130 13b943232719acfa146eab843bbe6010 ""
   "Abbildungen/Ausrichtung.jpg" 1689130009 139125 5040407edcf3419202047b97205cad8c ""
   "Abbildungen/HTWLogo.eps" 1688475293 328130 13b943232719acfa146eab843bbe6010 ""
@@ -172,20 +172,20 @@
   "C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044406800 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Feuerherdt_Niels_REST_SoSe23.aux" 1689136965 6643 5a6ff7206c53f1be1da310bf4e2df9c0 "pdflatex"
-  "Feuerherdt_Niels_REST_SoSe23.bbl" 1689136961 626 ad3f7039d92630588d88398910014e78 "bibtex Feuerherdt_Niels_REST_SoSe23"
-  "Feuerherdt_Niels_REST_SoSe23.lof" 1689136965 330 777039e21a51b263a96a581d072132ee "pdflatex"
-  "Feuerherdt_Niels_REST_SoSe23.lot" 1689136965 210 2e9a60a7a89198c09f996728d75c6596 "pdflatex"
-  "Feuerherdt_Niels_REST_SoSe23.out" 1689136964 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.aux" 1689137334 6685 f66791619b262aa0381a4f99ee58291e "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.bbl" 1689137329 837 c1b6a23af3a8fdc7ae78ce07cbf7326f "bibtex Feuerherdt_Niels_REST_SoSe23"
+  "Feuerherdt_Niels_REST_SoSe23.lof" 1689137334 330 777039e21a51b263a96a581d072132ee "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.lot" 1689137334 210 2e9a60a7a89198c09f996728d75c6596 "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.out" 1689137333 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "Feuerherdt_Niels_REST_SoSe23.tex" 1689134230 1405 2f89d6cebad80c2d67cc0bb6f95548ff ""
-  "Feuerherdt_Niels_REST_SoSe23.toc" 1689136965 1184 e5cc312940dfc4851fb9ba69257484a1 "pdflatex"
+  "Feuerherdt_Niels_REST_SoSe23.toc" 1689137334 1184 e5cc312940dfc4851fb9ba69257484a1 "pdflatex"
   "Setup-Files/head.tex" 1688475293 1400 1ab9d6db0a83b099d0f2759b56c83dd0 ""
   "Setup-Files/style.tex" 1688475293 475 2d407ae1d8bcce1c78f526a7ea6f1643 ""
   "Setup-Files/summary.tex" 1689130238 13117 c0ae610b841710d08bc210fa0cac2dd5 ""
   "Sub-Files/Einleitung.tex" 1689127362 399 8fd598d062121400c58876308b64b2ed ""
   "Sub-Files/Quellen.tex" 1689134215 41 bb3c23a70c604bd42a3c823145d52f73 ""
   "Sub-Files/a) Angebot und Bedarf.tex" 1689131515 1493 f99ea6b93a9dddc46449011445302692 ""
-  "Sub-Files/b) Angbeot und Bedarf.tex" 1689135255 2292 e026311be7a7182f814e617e4e90363c ""
+  "Sub-Files/b) Angbeot und Bedarf.tex" 1689137309 2307 0616d7c728f5dbe3df8bcfb2c375df93 ""
   "Sub-Files/c) Komponentenauswahl.tex" 1689136146 474 30927de847c8be78953ab9d7d5d241b9 ""
   "Sub-Files/d) Komponentenauswahl.tex" 1689136349 295 beee5079e4d0fb2a7ecd0d5ca2ef7f7f ""
   "Sub-Files/e) Komponentenauswahl.tex" 1689136951 426 62ba137a2cc4536a13978c2c4b9c62e3 ""

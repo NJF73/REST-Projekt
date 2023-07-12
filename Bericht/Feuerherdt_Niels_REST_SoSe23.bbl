@@ -11,6 +11,13 @@ Joint Research Centre Energy~Efficiency European~Commission and Renewables
 \newblock Jrc photovoltaic geographical information system.
 \newblock \url{https://re.jrc.ec.europa.eu/pvg_tools/en/}.
 
+\bibitem{EuroStat}
+eurostat.
+\newblock Disaggregated final energy consumption in households - quantities.
+\newblock
+  \url{https://ec.europa.eu/eurostat/databrowser//product/view/NRG_D_HHQ}, May
+  2023.
+
 \bibitem{Sick22}
 Friedrich Sick.
 \newblock Modul rest: Biomasse und thermische systeme.
