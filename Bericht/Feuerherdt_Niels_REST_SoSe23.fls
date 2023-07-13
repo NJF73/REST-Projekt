@@ -1137,10 +1137,6 @@ INPUT .\Feuerherdt_Niels_REST_SoSe23.lof
 INPUT Feuerherdt_Niels_REST_SoSe23.lof
 INPUT Feuerherdt_Niels_REST_SoSe23.lof
 OUTPUT Feuerherdt_Niels_REST_SoSe23.lof
-INPUT .\Feuerherdt_Niels_REST_SoSe23.lot
-INPUT Feuerherdt_Niels_REST_SoSe23.lot
-INPUT Feuerherdt_Niels_REST_SoSe23.lot
-OUTPUT Feuerherdt_Niels_REST_SoSe23.lot
 INPUT .\Setup-Files\AbkVerzeichnis.tex
 INPUT Setup-Files\AbkVerzeichnis.tex
 INPUT .\Setup-Files\AbkVerzeichnis.tex
@@ -1155,6 +1151,8 @@ INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT .\Setup-Files\summary.tex
 INPUT Setup-Files\summary.tex
 INPUT .\Setup-Files\summary.tex
@@ -1220,8 +1218,6 @@ INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT Abbildungen\\HTWLogo.eps
@@ -1236,14 +1232,6 @@ INPUT .\Sub-Files\c) Komponentenauswahl.tex
 INPUT Sub-Files\c) Komponentenauswahl.tex
 INPUT .\Sub-Files\c) Komponentenauswahl.tex
 INPUT Sub-Files\c) Komponentenauswahl.tex
-INPUT .\Sub-Files\d) Komponentenauswahl.tex
-INPUT Sub-Files\d) Komponentenauswahl.tex
-INPUT .\Sub-Files\d) Komponentenauswahl.tex
-INPUT Sub-Files\d) Komponentenauswahl.tex
-INPUT .\Sub-Files\e) Komponentenauswahl.tex
-INPUT Sub-Files\e) Komponentenauswahl.tex
-INPUT .\Sub-Files\e) Komponentenauswahl.tex
-INPUT Sub-Files\e) Komponentenauswahl.tex
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo.eps
@@ -1253,14 +1241,38 @@ INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Sub-Files\d) Komponentenauswahl.tex
+INPUT Sub-Files\d) Komponentenauswahl.tex
+INPUT .\Sub-Files\d) Komponentenauswahl.tex
+INPUT Sub-Files\d) Komponentenauswahl.tex
+INPUT .\Sub-Files\e) Komponentenauswahl.tex
+INPUT Sub-Files\e) Komponentenauswahl.tex
+INPUT .\Sub-Files\e) Komponentenauswahl.tex
+INPUT Sub-Files\e) Komponentenauswahl.tex
 INPUT .\Sub-Files\f) Hydraulik.tex
 INPUT Sub-Files\f) Hydraulik.tex
 INPUT .\Sub-Files\f) Hydraulik.tex
 INPUT Sub-Files\f) Hydraulik.tex
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Sub-Files\g) Hydraulik.tex
 INPUT Sub-Files\g) Hydraulik.tex
 INPUT .\Sub-Files\g) Hydraulik.tex
 INPUT Sub-Files\g) Hydraulik.tex
+INPUT .\Abbildungen\Druckverlust.png
+INPUT .\Abbildungen\Druckverlust.png
+INPUT Abbildungen\Druckverlust.png
+INPUT .\Abbildungen\Druckverlust.png
+INPUT .\Abbildungen\Druckverlust.png
+INPUT .\Abbildungen\Druckverlust.png
+INPUT .\Abbildungen\Druckverlust.png
 INPUT .\Sub-Files\h) Hydraulik.tex
 INPUT Sub-Files\h) Hydraulik.tex
 INPUT .\Sub-Files\h) Hydraulik.tex
@@ -1275,10 +1287,6 @@ INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
-INPUT .\Sub-Files\i) Hydraulik.tex
-INPUT Sub-Files\i) Hydraulik.tex
-INPUT .\Sub-Files\i) Hydraulik.tex
-INPUT Sub-Files\i) Hydraulik.tex
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo.eps
@@ -1288,6 +1296,10 @@ INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Sub-Files\i) Hydraulik.tex
+INPUT Sub-Files\i) Hydraulik.tex
+INPUT .\Sub-Files\i) Hydraulik.tex
+INPUT Sub-Files\i) Hydraulik.tex
 INPUT .\Abbildungen\Kennlinie-Mittel.png
 INPUT .\Abbildungen\Kennlinie-Mittel.png
 INPUT Abbildungen\Kennlinie-Mittel.png
@@ -1308,15 +1320,36 @@ INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Abbildungen\Kennlinie-Vergleich.png
+INPUT .\Sub-Files\k) Pumpenauswahl.tex
+INPUT Sub-Files\k) Pumpenauswahl.tex
+INPUT .\Sub-Files\k) Pumpenauswahl.tex
+INPUT Sub-Files\k) Pumpenauswahl.tex
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo.eps
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
+INPUT .\Abbildungen\\HTWLogo-eps-converted-to.pdf
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr7.tfm
-INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri7.tfm
-INPUT .\Sub-Files\k) Schwankungsbreite.tex
-INPUT Sub-Files\k) Schwankungsbreite.tex
-INPUT .\Sub-Files\k) Schwankungsbreite.tex
-INPUT Sub-Files\k) Schwankungsbreite.tex
 INPUT .\Abbildungen\\HTWLogo.eps
 INPUT Abbildungen\\HTWLogo.eps
 INPUT .\Abbildungen\\HTWLogo.eps
@@ -1365,12 +1398,16 @@ INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi1
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi7.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi7.pfb
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr7.pfb
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb

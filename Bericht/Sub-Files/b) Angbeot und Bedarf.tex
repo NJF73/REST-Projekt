@@ -1,19 +1,21 @@
 \subsection{b}
 Zur korrekten Dimensionierung der Anlage ist die Betrachtung des Gesamtwärmebedarfs von zentraler Rolle.
-Auf den Gesamtwärmebedarf haben vor allem die Dämm- und Speichereigenschaften des Gebäudes, sowie das Nutzungsprofil der Bewohner.\\
+Auf den Gesamtwärmebedarf haben vor allem die Dämm- und Speichereigenschaften des Gebäudes, sowie das Nutzungsprofil der Bewohner Einfluss.\\
 Für das betrachtete Gebäude werden $160 m^2$ Wohnfläche bei einem spezifischen jährlichen Heizwärmebedarf von $50 \frac{kWh}{m^2 \cdot a}$ angegeben.
 Die Multiplikation dieser beiden Werte ergibt für den mittleren Heizwärmebedarf $Q_H = 8000 \frac{kWh}{a}$.\\
 Um eine begründete Abschätzung der Schwankungsbreite für diesen Wert zu erhalten, wurden Daten über den Gesamtverbrauch im Bereich "'Space Heating"' in Deutschland von 2012 bis 2021 verwendet.\cite{EuroStat}\\
 Mit Hilfe der Berechnung der relativen mittleren Abweichung der Werte konnte eine Toleranzgrenze von $\Delta Q_H = \pm 287,78 \frac{kWh}{a}$ ermittelt werden.\\
+\newpage
 Anschließend wurde der Warmwasserwärmebedarf $Q_{WW}$ für mittleren, niedrigen und hohen Verbrauch \cite[S.119]{Sick22} berechnet.
-Mittels \autoref{eq:Warmwasser} ergab sich für den betrachteten 4-Personen-Haushalt ein mittlerer Warmwasserwämrmebedarf inklusive Abweichung von $Q_{WW,mit} = 2711,025 \frac{kWh}{a} \pm 1355,513 \frac{kWh}{a}$.
+Mittels \autoref{eq:Warmwasser} ergab sich für den betrachteten 4-Personen-Haushalt ein mittlerer Warmwasserwärmebedarf von $Q_{WW,mit} = 2711,025 \frac{kWh}{a} \pm 1355,513 \frac{kWh}{a}$.
 
 \begin{equation}
-    Q_{WW}= c_p \cdot m \cdot Bewohnerzahl \cdot \rho \cdot \Delta T
+    Q_{WW}= c_p \cdot \dot{m} \cdot Bewohnerzahl  \cdot 365d \cdot \rho \cdot \Delta T
     \label{eq:Warmwasser}
 \end{equation}
 \vspace{\baselineskip}
 \begin{center}
+    täglicher Massenstrom je Person bei mittlerem Verbrauch $\dot{m}=50 \frac{l}{Person \cdot d}$
     spez. Wärmekapazität $c_p = 3,68 \frac{kJ}{kg \cdot K}$\\
     Dichte $\rho = 1038 \frac{kg}{m^3}$\\
     Temperaturdifferenz $\Delta T = 35 K$ 
@@ -33,4 +35,4 @@ Hierfür wird die folgende Formel verwendet \cite[S.73]{Sick22}:
 \vspace{\baselineskip}
 Aus \autoref{eq:Zirkulation} geht ein Zirkulationsbedarf von $Q_{ZV} = 2920 \frac{kWh}{a}$ hervor.\\
 Die Summe der Bedarfe ergibt den Gesamtwärmebedarf inklusive aufsummierter Toleranz.
-Dieser beläuft sich auf $Q_{Ges}=13631,025 \pm 1643,292 \frac{kWh}{a}$.\\
+Dieser beläuft sich auf $Q_{Ges}=13631,025 \pm 1643,292 \frac{kWh}{a}$.

@@ -5,6 +5,13 @@ Volker Quaschning.
 \newblock {\em Regenerative Energiesysteme}.
 \newblock HANSER Verlag, 2019.
 
+\bibitem{Viessmann}
+Viessmann~GmbH Werke.
+\newblock Planungsanleitung.
+\newblock
+  \url{https://moodle.htw-berlin.de/pluginfile.php/1709261/mod_resource/content/2/VIESSMANN-Unterlagen.pdf},
+  May 2017.
+
 \bibitem{PVGIS}
 Joint Research Centre Energy~Efficiency European~Commission and Renewables
   Unit.
@@ -24,11 +31,9 @@ Friedrich Sick.
 \newblock
   \url{https://moodle.htw-berlin.de/pluginfile.php/1709252/mod_resource/content/2/REST_Thermische%20Systeme_Sick_SoSe23.pdf}.
 
-\bibitem{Viessmann}
-Viessmann~GmbH Werke.
-\newblock Planungsanleitung.
-\newblock
-  \url{https://moodle.htw-berlin.de/pluginfile.php/1709261/mod_resource/content/2/VIESSMANN-Unterlagen.pdf},
-  May 2017.
+\bibitem{Grundfos}
+GRUNDFOS GMBH.
+\newblock Pumpenauslegung.
+\newblock \url{https://product-selection.grundfos.com/de}.
 
 \end{thebibliography}

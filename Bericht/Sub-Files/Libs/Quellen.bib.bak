@@ -25,4 +25,12 @@
   year         = {2023},
 }
 
+@Misc{Viessmann,
+  author       = {Viessmann GmbH Werke},
+  howpublished = {\url{https://moodle.htw-berlin.de/pluginfile.php/1709261/mod_resource/content/2/VIESSMANN-Unterlagen.pdf}},
+  month        = may,
+  title        = {Planungsanleitung},
+  year         = {2017},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
