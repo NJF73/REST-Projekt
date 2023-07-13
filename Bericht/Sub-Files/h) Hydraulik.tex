@@ -1,5 +1,26 @@
 \subsection{h}
-Berechnen Sie nun den Druckverlust der Verrohrung des Solarkreises. Es wird ein neues Kupferrohr ein-
-gesetzt. Die einfache Rohrleitungslänge (z. B. Vorlauf) beträgt 12 m. Den Druckverlust durch Einzelwi-
-derstände und im Wärmeübertrager dürfen Sie dadurch berücksichtigen, dass Sie den Druckverlust der
-Verrohrung um 45 \% erhöhen
+Der Druckverlust über die Rohrleitung des Kollektorfeldes berechnet sich nach \autoref{eq:Verrohrung}
+hierbei wurde die vorbestimmte Rohrleitung genutzt, bei dieser handelt es sich um eine neue Kupferleitung
+bei der die einfache Leitungslänge 12 m beträgt.\\
+Zuvor muss die Reynoldszahl berechnet werden, aus der sich die benötigte Rohrreibungszahl $\lambda$ 
+ergibt. Hierbei ist zu beachten, dass je nach Reynoldszahl die Formel für die Rohrreibungszahl $\lambda$
+unterschiedlich ist. Das kommt zu stande, da für laminare und turbolente Strömungen unterschiedliche
+Berechnungen nötig sind. In diesem Fall handelt es sich um eine turbolente Strömung.\\
+\begin{equation}
+    \lambda =  \frac{0,316}{Re^{0,25}} = 0,0442
+\end{equation}
+\begin{equation}
+    \Delta p_r = \frac{1}{2} \cdot \lambda \cdot \rho \cdot v^2_R \cdot \frac{L_R}{d_R} = 11757,43 Pa
+        \label{eq:Verrohrung}
+\end{equation}
+\vspace{\baselineskip}
+\begin{center}
+    Reynoldszahl $Re = \frac{v_R \cdot d_R}{\upsilon} = 2614,39$\\
+    kinematische Viskosität $\upsilon =5 \cdot 10^{-6} \frac{m^2}{s}$\\
+    Länge des Rohres $L_R = 24 m$
+\end{center}
+
+Das Ergebnis dieser Berechnung ist ein Druckverlust in der Rohrleitung von $\Delta p_r = 11757,43 Pa$.
+Anschließend wird die Berücksichtung der Druckverluste durch die Einzelwiderstände und im Wärmeübertrager
+vereinfacht und es wird angenommen, dass diese in etwa 45\% des Verlustes in der Rohrleitung betragen.
+Es ergibt sich ein Verlust von $\Delta p_{EW,WÜ} = 5290,84 Pa$.
