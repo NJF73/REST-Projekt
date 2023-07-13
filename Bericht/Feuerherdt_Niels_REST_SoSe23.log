@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.6)  13 JUL 2023 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.6)  13 JUL 2023 19:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -821,6 +821,7 @@ Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on in
 \tf@lot=\write7
 \openout7 = `Feuerherdt_Niels_REST_SoSe23.lot'.
 
+ (Setup-Files/AbkVerzeichnis.tex)
 Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 328130 bytes
@@ -839,20 +840,10 @@ Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on in
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 5.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 179.
 (C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (45.53166pt too wide) in paragraph at lines 7--51
- [][] 
- []
-
-) (Sub-Files/Einleitung.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--7
-
- []
-
-) (Sub-Files/a) Angebot und Bedarf.tex
+))
 Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 328130 bytes
@@ -860,26 +851,53 @@ Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 27804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
-(epstopdf)             \includegraphics on input line 13.
+(epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
-Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 13.
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 38.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
+ [3{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] (Sub-Files/Einleitung.tex) (Sub-Files/a) Angebot und Bedarf.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 7.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 7.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.13 
-      [1{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<Abbildungen/Ausrichtung.jpg, id=95, 652.68843pt x 402.00188pt>
+Overfull \hbox (4.90794pt too wide) in paragraph at lines 4--13
+\T1/lmr/m/n/14.4 strah-lungs-s-um-me auf der Ho-ri-zon-ta-len von $\OML/lmm/m/it/14.4 E \OT1/lmr/m/n/14.4 = 1132\OML/lmm/m/it/14.4 ; \OT1/lmr/m/n/14.4 465[] \OMS/lmsy/m/n/14.4 ^^F \OT1/lmr/m/n/14.4 111\OML/lmm/m/it/14.4 ; \OT1/lmr/m/n/14.4 055[]$\T1/lmr/m/n/14.4 . 
+ []
+
+<Abbildungen/Ausrichtung.jpg, id=91, 652.68843pt x 402.00188pt>
 File: Abbildungen/Ausrichtung.jpg Graphic file (type jpg)
 <use Abbildungen/Ausrichtung.jpg>
 Package pdftex.def Info: Abbildungen/Ausrichtung.jpg  used on input line 16.
 (pdftex.def)             Requested size: 455.24411pt x 280.40567pt.
 ) (Sub-Files/b) Angbeot und Bedarf.tex
-Overfull \hbox (37.17564pt too wide) in paragraph at lines 2--10
-\T1/lmr/m/n/10.95 Haushalt ein mitt-ler-er Warm-was-ser-wämr-me-be-darf in-klu-si-ve Ab-wei-chung von $\OML/lmm/m/it/10.95 Q[] \OT1/lmr/m/n/10.95 = 2711\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 025[] \OMS/lmsy/m/n/10.95 ^^F
+Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 328130 bytes
+(epstopdf)             Output file: <./Abbildungen//HTWLogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 27804 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
+(epstopdf)             \includegraphics on input line 1.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 1.
+(pdftex.def)             Requested size: 36.04643pt x 20.0pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \subsection
+               {b} [1
+
+{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (2.88202pt too wide) in paragraph at lines 2--10
+\T1/lmr/m/n/14.4 Anschlieÿend wur-de der Warm-was-ser-wär-me-be-darf $\OML/lmm/m/it/14.4 Q[]$ \T1/lmr/m/n/14.4 für mitt-le-ren, nied-
  []
 
 Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
@@ -889,11 +907,11 @@ Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 27804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
-(epstopdf)             \includegraphics on input line 16.
+(epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
-Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 16.
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 10.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
 [2 <./Abbildungen/Ausrichtung.jpg>]) (Sub-Files/c) Komponentenauswahl.tex
 Underfull \hbox (badness 10000) in paragraph at lines 34--1
@@ -910,11 +928,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-) (Sub-Files/f) Hydraulik.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-
- []
-
 Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 328130 bytes
@@ -922,18 +935,37 @@ Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 27804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
-(epstopdf)             \includegraphics on input line 8.
+(epstopdf)             \includegraphics on input line 1.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
-Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 8.
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 1.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
-[3]) (Sub-Files/g) Hydraulik.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--1
+[3]) (Sub-Files/f) Hydraulik.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+) (Sub-Files/g) Hydraulik.tex
+Underfull \hbox (badness 10000) in paragraph at lines 14--1
 
  []
 
 ) (Sub-Files/h) Hydraulik.tex
+Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 328130 bytes
+(epstopdf)             Output file: <./Abbildungen//HTWLogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 27804 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
+(epstopdf)             \includegraphics on input line 1.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 1.
+(pdftex.def)             Requested size: 36.04643pt x 20.0pt.
+ [4{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 2--9
 
  []
@@ -955,11 +987,28 @@ File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
 Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 1.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
- [4{C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
+ [5]
 
-LaTeX Warning: Command \" invalid in math mode on input line 12.
+Package caption Warning: \label without proper reference on input line 21.
+See the caption package documentation for explanation.
 
-) (Sub-Files/j) Schwankungsbreite.tex) (Sub-Files/k) Schwankungsbreite.tex)
+
+LaTeX Warning: Reference `fig:Kenn_Mittel' on page 6 undefined on input line 5.
+
+
+Overfull \hbox (1.576pt too wide) in paragraph at lines 2--6
+\T1/lmr/m/n/14.4 Druck-ver-lus-te be-rech-net wer-den. Mit die-sem wird ent-spre-chend []Glei-chung 7[][]
+ []
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 14.
+
+<Abbildungen/Kennlinie-Mittel.png, id=147, 1053.39pt x 711.969pt>
+File: Abbildungen/Kennlinie-Mittel.png Graphic file (type png)
+<use Abbildungen/Kennlinie-Mittel.png>
+Package pdftex.def Info: Abbildungen/Kennlinie-Mittel.png  used on input line 20.
+(pdftex.def)             Requested size: 455.24411pt x 307.69421pt.
+) (Sub-Files/j) Schwankungsbreite.tex
 Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 328130 bytes
@@ -967,34 +1016,53 @@ Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 27804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
-(epstopdf)             \includegraphics on input line 55.
+(epstopdf)             \includegraphics on input line 1.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
-Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 55.
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 1.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
- [5] (Sub-Files/Quellen.tex (Feuerherdt_Niels_REST_SoSe23.bbl
+ [6]) (Sub-Files/k) Schwankungsbreite.tex)
+Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 328130 bytes
+(epstopdf)             Output file: <./Abbildungen//HTWLogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-07-04 14:54:53
+(epstopdf)                    size: 27804 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
+(epstopdf)             \includegraphics on input line 54.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 54.
+(pdftex.def)             Requested size: 36.04643pt x 20.0pt.
+ [7 <./Abbildungen/Kennlinie-Mittel.png>] (Sub-Files/Quellen.tex (Feuerherdt_Niels_REST_SoSe23.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 12.
  (C:\Users\Niels_2\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 1117) in paragraph at lines 22--26
-[]\T1/lmr/m/n/10.95 Friedrich Sick.  Mo-dul rest: Bio-mas-se und ther-mi-sche sys-te-me.  []$\T1/lmtt/m/n/10.95 https : / / moodle .
+Underfull \hbox (badness 1231) in paragraph at lines 15--20
+\T1/lmr/m/n/14.4 ti-ties.  []$\T1/lmtt/m/n/14.4 https : / / ec . europa . eu / eurostat / databrowser / /product /
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 22--26
+[]\T1/lmr/m/n/14.4 Friedrich Sick.  Mo-dul rest: Bio-mas-se und ther-mi-sche sys-te-me.
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--26
-\T1/lmtt/m/n/10.95 htw-[]berlin . de / pluginfile . php / 1709252 / mod _ resource / content / 2 / REST _ Thermische %
+[]$\T1/lmtt/m/n/14.4 https : / / moodle . htw-[]berlin . de / pluginfile . php / 1709252 / mod _
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 28--33
-[]\T1/lmr/m/n/10.95 Viessmann GmbH Wer-ke.  Pla-nungs-an-lei-tung.  []$\T1/lmtt/m/n/10.95 https : / / moodle . htw-[]berlin . de /
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+\T1/lmtt/m/n/14.4 resource / content / 2 / REST _ Thermische % 20Systeme _ Sick _ SoSe23 .
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 28--33
-\T1/lmtt/m/n/10.95 pluginfile . php / 1709261 / mod _ resource / content / 2 / VIESSMANN-[]Unterlagen . pdf$[]\T1/lmr/m/n/10.95 , May
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+\T1/lmtt/m/n/14.4 htw-[]berlin . de / pluginfile . php / 1709261 / mod _ resource / content /
  []
 
 ))
@@ -1005,28 +1073,31 @@ Package epstopdf Info: Source file: <./Abbildungen//HTWLogo.eps>
 (epstopdf)                    date: 2023-07-04 14:54:53
 (epstopdf)                    size: 27804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=./Abbildungen//HTWLogo-eps-converted-to.pdf ./Abbildungen//HTWLogo.eps>
-(epstopdf)             \includegraphics on input line 62.
+(epstopdf)             \includegraphics on input line 61.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Abbildungen//HTWLogo-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Abbildungen//HTWLogo-eps-converted-to.pdf>
-Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 62.
+Package pdftex.def Info: ./Abbildungen//HTWLogo-eps-converted-to.pdf  used on input line 61.
 (pdftex.def)             Requested size: 36.04643pt x 20.0pt.
- [6] (Feuerherdt_Niels_REST_SoSe23.aux)
+ [8] (Feuerherdt_Niels_REST_SoSe23.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `Feuerherdt_Niels_REST_SoSe23.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19765 strings out of 476315
- 378394 string characters out of 5786253
- 1892068 words of memory out of 5000000
- 39764 multiletter control sequences out of 15000+600000
- 571152 words of font info for 66 fonts, out of 8000000 for 9000
+ 19813 strings out of 476315
+ 379287 string characters out of 5786253
+ 1888068 words of memory out of 5000000
+ 39796 multiletter control sequences out of 15000+600000
+ 594893 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,23n,121p,11006b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Feuerherdt_Niels_REST_SoSe23.pdf (9 pages, 546601 bytes).
+ 113i,23n,121p,11006b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Niels_2/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Feuerherdt_Niels_REST_SoSe23.pdf (12 pages, 824127 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
