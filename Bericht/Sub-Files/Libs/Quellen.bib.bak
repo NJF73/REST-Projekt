@@ -1,6 +1,6 @@
 @Misc{PVGIS,
   author       = {European Commission, Joint Research Centre Energy Efficiency and Renewables Unit},
-  howpublished = {\url={https://re.jrc.ec.europa.eu/pvg_tools/en/}},
+  howpublished = {\url{https://re.jrc.ec.europa.eu/pvg_tools/en/}},
   title        = {JRC Photovoltaic Geographical Information System},
 }
 

@@ -14,5 +14,5 @@
 \contentsline {subsection}{\numberline {4.4}i}{4}{subsection.4.4}%
 \contentsline {section}{\numberline {5}Schwankungsbreite}{4}{section.5}%
 \contentsline {subsection}{\numberline {5.1}j}{4}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}k}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.2}k}{5}{subsection.5.2}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
